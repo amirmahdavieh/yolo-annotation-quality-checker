@@ -67,7 +67,7 @@ All coordinates are normalized between `0` and `1`.
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/yolo-annotation-quality-checker.git
+git clone https://github.com/amirmahdavieh/yolo-annotation-quality-checker.git
 cd yolo-annotation-quality-checker
 python -m venv venv
 ```
